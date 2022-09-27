@@ -6,4 +6,4 @@ Deleting a file puts the inode’s element in a limited size queue (the Bin/Tras
 The interface allows a user to navigate and perform the described tasks. 
 At the beginning and end of the session, the file system is loaded, and dumped to the disk, respectively.
 
-![Demo User Interface](https://github.com/Dev-Kalavadia/Virtual-File-Management-System/blob/main/vfs.png)
+![Demo User Interface](https://github.com/Dev-Kalavadia/Virtual-File-Management-System/blob/main/vfs.png  width="250")
