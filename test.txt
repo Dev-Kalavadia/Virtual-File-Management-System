@@ -1,0 +1,37 @@
+m folder1
+m folder2
+touch desktop 80
+touch desktoppp 90
+cd folder1
+m folder11
+cd folder11
+m folder111
+cd folder111
+t file1 10
+t file2 20
+t file3 30
+t file4 40
+t file5 50
+t file6 50
+t file7 70
+ls
+cd /folder1/folder11/folder111
+ls
+rm file4
+showbin
+recover
+showbin
+emptybin
+
+
+
+
+
+
+
+
+
+
+
+
+void move(string parameter, string second_parameter, Inode* current);

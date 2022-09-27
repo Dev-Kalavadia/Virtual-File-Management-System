@@ -1,0 +1,2 @@
+The complexity of building a heap from a list one at a time is O(logn) since the each element is inserted through up-heaping. Thus inserting n elements will take O(nlogn).
+However, it can be improved by bottom-up heap construction where we can fill the bottom level of the heap and then we fill the level above it, until we reach the root. This would take O(n) which is clearly bettern then O(nlogn)
